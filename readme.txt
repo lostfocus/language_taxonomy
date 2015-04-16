@@ -2,8 +2,8 @@
 Contributors: dominik.schwind
 Tags: language, taxonomy
 Requires at least: 3.0
-Tested up to: 3.3.1
-Stable tag: 0.2
+Tested up to: 3.8
+Stable tag: 0.2.1
 
 Adds a language taxonomy to posts, pages and other items.
 
@@ -30,6 +30,10 @@ Example:
 1. Update your "Permalinks" settings.
 
 == Changelog ==
+
+= 0.2.1 =
+
+* Removed two typos
 
 = 0.2 =
 
