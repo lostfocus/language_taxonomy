@@ -36,4 +36,8 @@ function create_language_taxonomies()
 
 }
 
+function lt_the_language($id){
+	the_terms($id,'language');
+}
+
 add_action( 'init', 'create_language_taxonomies', 0 );
