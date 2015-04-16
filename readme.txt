@@ -2,8 +2,8 @@
 Contributors: dominik.schwind
 Tags: language, taxonomy
 Requires at least: 3.0
-Tested up to: 3.9
-Stable tag: 0.2.2
+Tested up to: 4.2
+Stable tag: 0.2.3
 
 Adds a language taxonomy to posts, pages and other items.
 
@@ -29,7 +29,18 @@ Example:
 1. Activate it.
 1. Update your "Permalinks" settings.
 
+== Screenshots ==
+1. New language box in the New Post screen.
+2. Overview of the languages
+3. Test language with permalink - English
+4. Test language with permalink - German
+
 == Changelog ==
+
+= 0.2.3 =
+
+* Checked for 4.2 compatibility
+* Added screenshots
 
 = 0.2.2 =
 
