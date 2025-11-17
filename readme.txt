@@ -2,8 +2,8 @@
 Contributors: dominik.schwind
 Tags: language, taxonomy
 Requires at least: 3.0
-Tested up to: 4.2
-Stable tag: 0.2.3
+Tested up to: 6.8.3
+Stable tag: 0.3.0
 
 Adds a language taxonomy to posts, pages and other items.
 
@@ -36,6 +36,10 @@ Example:
 4. Test language with permalink - German
 
 == Changelog ==
+
+= 0.3.0 =
+
+* Use the slug as a language in the ActivityPub plugin. As long as the slug is an ISO language code.
 
 = 0.2.3 =
 
