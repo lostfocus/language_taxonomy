@@ -3,7 +3,7 @@ Contributors: dominik.schwind
 Tags: language, taxonomy
 Requires at least: 3.0
 Tested up to: 6.8.3
-Stable tag: 0.3.0
+Stable tag: 0.3.1
 
 Adds a language taxonomy to posts, pages and other items.
 
@@ -36,6 +36,10 @@ Example:
 4. Test language with permalink - German
 
 == Changelog ==
+
+= 0.3.1 =
+
+* Skip language detection on comments
 
 = 0.3.0 =
 
